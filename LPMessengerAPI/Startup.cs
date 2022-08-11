@@ -77,7 +77,7 @@ namespace LPMessengerAPI
             //services.AddCors(o => o.AddPolicy(MyAllowSpecificOrigins,
             //            builder =>
             //            {
-            //                builder.WithOrigins("https://apiui.lp-its.com")//http://localhost:55555,
+            //                builder.WithOrigins("https://apiui.lp-its.com")
             //            .AllowAnyMethod()
             //            .AllowAnyHeader();
             //            }));
